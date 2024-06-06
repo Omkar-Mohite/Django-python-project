@@ -1,5 +1,5 @@
-# Django-python-project
-This project is about Ecommerce online shopping website.
+# Django-python-project : Web based online Greatkart Shop.
+
 Step 1 : Activate Environment
 cd env
 cd Script
