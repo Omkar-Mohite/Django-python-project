@@ -1,4 +1,5 @@
 # Django-python-project
+This project is about Ecommerce online shopping website.
 Step 1 : Activate Environment
 cd env
 cd Script
